@@ -1,6 +1,8 @@
+#!/usr/bin/env python3
 import os
 
-main_title = "0% Interest Math"
+page_title = "0% Interest Math"
+main_title = "Zero Interest Math"
 content_dir = "content"
 template_file = "template/default.html"
 
@@ -47,7 +49,8 @@ for postname in posts:
         pass
 
 html = readfile(template_file)
-html = html.replace("{{title}}", main_title)
+html = html.replace("{{page_title}}", page_title)
+html = html.replace("{{main_title}}", main_title)
 html = html.replace("{{links}}", links)
 html = html.replace("{{main}}", main_content)
 

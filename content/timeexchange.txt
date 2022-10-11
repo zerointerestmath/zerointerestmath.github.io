@@ -1,0 +1,11 @@
+Interest: An Exchange Rate Across Time
+The "real rate" is arbitrary.
+
+What many people don't seem to realize, is
+that the choice of a "real interest rate", is arbitrary.
+
+When we provide interest, we are exchanging money across
+time, or better stated, temporarily upgrading between
+money forms.
+
+
