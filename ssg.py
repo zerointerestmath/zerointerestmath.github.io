@@ -5,6 +5,7 @@ page_title = "0% Interest Math"
 main_title = "Zero Interest Math"
 content_dir = "content"
 template_file = "template/default.html"
+author = "<a href='https://twitter.com/0InterestMath/'>@0InterestMath</a>"
 
 
 def readfile(path):
@@ -53,6 +54,7 @@ html = html.replace("{{page_title}}", page_title)
 html = html.replace("{{main_title}}", main_title)
 html = html.replace("{{links}}", links)
 html = html.replace("{{main}}", main_content)
+html = html.replace("{{author}}", author)
 
 
 with open("index.html", "w") as file:

@@ -1,4 +1,36 @@
 
 h1,h2,h3,h4,h5,a{
-  font-family: sans-serif;
+  font-family: Tahoma, Verdana, sans-serif;
+}
+h1{
+  background: black;
+  color: white;
+  padding: 1em;
+  margin-top: 0;
+  text-align: center;
+}
+ul{
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center{
+  text-align: center;
+}
+body{
+  margin: 0;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:visited: {
+  color: lightblue;
+}
+.main{
+  margin-left: 12px;
+  margin-right: 12px;
+}
+p{
+  font-family: "Times New Roman", Times, serif;
 }
