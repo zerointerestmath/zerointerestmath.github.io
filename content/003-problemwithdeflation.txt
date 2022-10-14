@@ -1,78 +1,80 @@
+The Problem With Deflationary Currencies
+You never know when they are in a bubble
 
-<!doctype html>
-<html>
-  <head>
-    <title>
-      0% Interest Math
-    </title>
-    <link rel="stylesheet" href="./assets/basic.css"/>
-  </head>
-  <body>
-    <h1> Zero Interest Math </h1>
-    <h3 class="center"> by <a href='https://twitter.com/0InterestMath/'>@0InterestMath</a> </h3>
-    <ul>
-      
-<li><a href='#003-problemwithdeflation.txt'>The Problem With Deflationary Currencies</a></li>
-<li><a href='#001-priceisachoice.txt'>Price Is a Choice</a></li>
-<li><a href='#002-timeexchange.txt'>Interest: An Exchange Rate Across Time</a></li>
-    </ul>
-    <div class="main">
-      
-<hr>
-
-<h2 id='003-problemwithdeflation.txt'>The Problem With Deflationary Currencies</h2>
-<h3>You never know when they are in a bubble</h3>
-<p>
 I've been reading Matt Levine's <i> Money Stuff </i> newsletter,
 and been really enjoying it.  I think it has a casual flowing
 style, which makes it readable even for sometimes challenging
 topics like finance.  So here's me trying to imitate that
-style.</p><p>Bitcoin has been tremendously popular.  Technically, almost
+style.
+
+Bitcoin has been tremendously popular.  Technically, almost
 anything can be popular: music, books, tv, colors.  The
 popularity of bitcoin shows us one thing for sure, people
 want financial alternatives.  They want to believe in a 
 system besides one in which banks and governments dictate
-what we do why and when.</p><p>There are a lot of problems with bitcoin. Being popular
+what we do why and when.
+
+There are a lot of problems with bitcoin. Being popular
 with libertarians, not being very stable.  Losing your
 money, someone else losing your money, etc.  Most of
-these problems were known and understood from the outset.</p><p>I have a strong background in mathematics and computer science,
+these problems were known and understood from the outset.
+
+I have a strong background in mathematics and computer science,
 and even took a course in cryptography in my first stint at
 university.  About the time that bitcoin came out, I was taking
 courses in theory of computation and algorithms.  I started
 to be obsessed with NP problems, I really wanted to find
 a way to "cache" solutions to subproblems,
-what is called "dynamic programming".</p><p>Little did I know, that about this same time, there was the early
+what is called "dynamic programming".
+
+Little did I know, that about this same time, there was the early
 stages of gold rush into another form mathematical problem solving,
 very simple hash function inversions, without much computational
 meaning.  My younger self would have been surprised to learn that
 people were about to make a whole lot of money, without doing anything
-particularly meaningful.</p><p>But most these problems were known from the outset.  What may
+particularly meaningful.
+
+But most these problems were known from the outset.  What may
 not have been anticipated, is that bitcoin would be wildly successful,
-with countless copycats, and little place to go.</p><p>And this leads us to the inherent problem with deflationary currencies.
+with countless copycats, and little place to go.
+
+And this leads us to the inherent problem with deflationary currencies.
 If a currency is inflationary, then you know the market cap, or amount
 in circulation, is basically what people need.  It's very unlikely that
 people are saving a ton extra, because that's a losing strategy.  So
 you don't get a lot of giant idle stacks.  The reason why these giant
 idle stacks are important, is that the bigger the stack, the more
-potential fuel there is to feed into a crash.</p><p>And that's really the truth of all currencies, not just bitcoin,
+potential fuel there is to feed into a crash.
+
+And that's really the truth of all currencies, not just bitcoin,
 even metal based currencies.  They are always ready to crash, but
-the so called "deflationary" ones tend to have a lot further to fall.</p><p>So the irony is, with an inflationary currency, you know that demand for
+the so called "deflationary" ones tend to have a lot further to fall.
+
+So the irony is, with an inflationary currency, you know that demand for
 it is organic.  People only save what they need to, because saving
 extra is just not very smart.  So if it does begin to fall more rapidly,
 well it may suck, but that was always part of the deal.  If you were
 the one stacking an inflationary currency, then you were the sucker
-to begin with.</p><p>In many ways national fiat debts have become the currency.  They have been
+to begin with.
+
+In many ways national fiat debts have become the currency.  They have been
 the worst performing yet most widely held asset for some time.  So they
-do have a long way to fall.</p><p>Such falls can be arrested by suspending the conversion of a fiat
+do have a long way to fall.
+
+Such falls can be arrested by suspending the conversion of a fiat
 debt, back into the fiat currency, ie sovereign default.  Not that
 that is the smartest way to deal with this.  But currencies always
 did well when they were lean and mean.  Just enough in circulation
 so that most people could access them, but not enough that anyone
-would lose too much if they failed.</p><p>This particular post is not really about MMT, you can read that
+would lose too much if they failed.
+
+This particular post is not really about MMT, you can read that
 100 other places and I'm sure I'll keep explaining all of that
 both now and in the future.  What this post is about, is 
 currency as a design problem, not solving the problem
-of society->tax->money->credit->currency.</p><p>If you want to make a currency, you gotta have some form
+of society->tax->money->credit->currency.
+
+If you want to make a currency, you gotta have some form
 of demand.  Initially bitcoin was like "oh this thing is
 expensive to create, but anyone can create it".  This
 is not a bad way to create a currency.  The problem
@@ -80,40 +82,20 @@ was that instead of inflation, for some odd reason the
 currencies designers thought deflation is better for
 a currency.  This goes against millenia of economic
 lessons and acquired practice.  Maybe they were on
-to something?</p><p>Well, I think it turns out, no, they weren't on
+to something?
+
+Well, I think it turns out, no, they weren't on
 to anything.  The shame is that we could have a
 thriving decentralized online token, which maybe
 works for payments, and makes digital commerce
 a whole lot more convenient.  Instead, by embracing
 deflation instead of inflation, we got a ton of
 hype, scams, ponzi schemes, rug pulls, crashes,
-venture capital failures, etc.</p><p>Maybe we can reboot the thing, but I think if we
+venture capital failures, etc.
+
+Maybe we can reboot the thing, but I think if we
 do, then proof of work is not the solution.  But
 in either case, here we are, many of us with
-bags in our hands, trying to sell them.</p><p>
-</p>
-<hr>
+bags in our hands, trying to sell them.
 
-<h2 id='001-priceisachoice.txt'>Price Is a Choice</h2>
-<h3>How we choose prices affects how resources are allocated.</h3>
-<p>
-Price is a choice, nevertheless, the price system
-must always be considered holistically, and in the
-context of resource distribution and rules of property
-and ownership.</p><p>Talking about "primitive" societies, is a common way
-In a loosely structured society, </p><p>So a system of prices always begins as a unitless system.
-Prices 
-</p>
-<hr>
 
-<h2 id='002-timeexchange.txt'>Interest: An Exchange Rate Across Time</h2>
-<h3>The "real rate" is arbitrary.</h3>
-<p>
-What many people don't seem to realize, is
-that the choice of a "real interest rate", is arbitrary.</p><p>When we provide interest, we are exchanging money across
-time, or better stated, temporarily upgrading between
-money forms.</p><p>
-</p>
-    </div>
-  </body>
-</html>

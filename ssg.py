@@ -43,8 +43,8 @@ for postname in posts:
         post = readfile(file)
         link = link_template(postname, post)
         text = post_template(postname, post)
-        links += link + "\n"
-        main_content += text + "\n<hr>\n\n"
+        links = links + "\n" + link
+        main_content = main_content + "\n<hr>\n\n" + text
         #print(link)
     except:
         pass

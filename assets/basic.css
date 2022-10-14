@@ -19,9 +19,10 @@ ul{
 }
 body{
   margin: 0;
-  max-width: 900px;
+  max-width: 500px;
   margin-left: auto;
   margin-right: auto;
+  font-size:95%;
 }
 
 a:visited: {
