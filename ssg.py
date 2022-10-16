@@ -37,6 +37,7 @@ def post_template(postname, post):
 main_content = ""
 links = ""
 posts = os.listdir(content_dir)
+posts.sort(reverse=True)
 for postname in posts:
     file = os.path.join(content_dir, postname)
     try:
