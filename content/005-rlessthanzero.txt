@@ -10,10 +10,21 @@ Well there are two reasons really.  First of all, if people are able
 to earn more through wages, then they will be able to save more.
 
 For the typical worker this might go something like this:
-<quote>
-At what point would you rather have higher financial returns
-versus lower but lower wages?
-</quote>
+
+<ol>
+  <li>
+    At what point would you rather have higher financial returns
+    but lower wages?
+  </li>
+  <li>
+    At what point would you rather have lower financial returns
+    but higher wages?
+  </li>
+  <li>
+    At what point would total wealth be maximized in the tradeoff
+    between financial returns and wages.
+  </li>
+</ol>
 
 Considering that the vast majority of americans live paycheck
 to paycheck, boosting wages would be a higher priority on
@@ -29,10 +40,20 @@ is, these financial people and economists, live in an unusual
 world, where the balance is tipped heavily toward financial
 returns.
 
+Even with negative financial returns on all assets, total
+financial wealth can increase by issuing more assets: equity
+shares, currencies, government debt.
+
+The goal of the economy as a whole should be a large amount
+of sustainable wealth, and I think that one could argue that
+this is achieved with financial returns, <i>r</i>, are close
+to zero or slightly negative, and the majority of wealth is
+earned through work output.
+
 For someone already wealthy, the amount they can earn through
 wages and working for income is likely small 
 
-
+<hr>
 <h3> Why r < 0 is okay </h3>
 
 Even if r < 0, and g = 0, then people may still choose to
