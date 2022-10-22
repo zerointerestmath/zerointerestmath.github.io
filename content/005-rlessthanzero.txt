@@ -58,11 +58,11 @@ wages and working for income is likely small
 Let us consider two different r's.
 
 <table> 
-  <th> r<subscript>public</subscript> <th> <td> The inflation adjusted return on government bonds </td>
-  <th> r<subscript>private</subscript> <th> <td> The inflation adjusted average return on private financial assets. </td>
+  <th> r<sub>public</sub> <th> <td> The inflation adjusted return on government bonds </td>
+  <th> r<sub>private</sub> <th> <td> The inflation adjusted average return on private financial assets. </td>
 </table>
 
-Even if r<subscript>private</subscript> &lt; 0, then people may still choose to
+Even if r<sub>private</sub> &lt; 0, then people may still choose to
 invest privately.  Here are some potential reasons.
 
 <ol>
@@ -84,7 +84,7 @@ invest privately.  Here are some potential reasons.
   </li>
 </ol>
 
-If r<subscript>private</subscript> &lt; 0, why would anyone bother investing privately in the first place?
+If r<sub>private</sub> &lt; 0, why would anyone bother investing privately in the first place?
 First of all, we should be clear, that government spending is just
 a democratically administered investment.  So it's not like there
 would be no investment.  Instead the investment merely becomes
