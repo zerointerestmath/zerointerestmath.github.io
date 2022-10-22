@@ -1,4 +1,4 @@
-Why r < 0 is okay, and g = 0 is good.
+Why r &lt; 0 is okay.
 Productivity gains are more important than financial gains
 
 Financial returns do not need to be positive for the economy to keep growing,
@@ -53,10 +53,16 @@ earned through work output.
 For someone already wealthy, the amount they can earn through
 wages and working for income is likely small 
 
-<hr>
-<h3> Why r < 0 is okay </h3>
+<h3> A tale of two r's </h3>
 
-Even if r < 0, and g = 0, then people may still choose to
+Let us consider two different r's.
+
+<table> 
+  <th> r<subscript>public</subscript> <th> <td> The inflation adjusted return on government bonds </td>
+  <th> r<subscript>private</subscript> <th> <td> The inflation adjusted average return on private financial assets. </td>
+</table>
+
+Even if r<subscript>private</subscript> &lt; 0, then people may still choose to
 invest privately.  Here are some potential reasons.
 
 <ol>
@@ -78,7 +84,7 @@ invest privately.  Here are some potential reasons.
   </li>
 </ol>
 
-If g=0 and r<0, why would anyone bother investing privately in the first place?
+If r<subscript>private</subscript> &lt; 0, why would anyone bother investing privately in the first place?
 First of all, we should be clear, that government spending is just
 a democratically administered investment.  So it's not like there
 would be no investment.  Instead the investment merely becomes
@@ -107,7 +113,7 @@ enterprise or business, that may make private investments attractive
 even without probable financial returns.  What private industry affords
 you is control and self direction.  So if you want to do a project you can.
 My expectation is not that a lack of financial opportunity would lead to
-r < 0, but rather the extreme ease with which one could earn a decent amount
+r &lt; 0, but rather the extreme ease with which one could earn a decent amount
 of money through wages and working for income.  If people can easily earn
 income through work, then they will increasingly engage in enterprises without
 probabilistically positive returns.
