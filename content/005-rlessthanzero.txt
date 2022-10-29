@@ -1,4 +1,4 @@
-Why \(r &lt; 0\) is okay.
+Why r &lt; 0 is okay.
 Productivity gains are more important than financial gains
 
 Financial returns do not need to be positive for the economy to keep growing,
